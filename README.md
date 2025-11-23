@@ -2,6 +2,38 @@
 
 Predict • Visualize • Analyze • Chat with WaterBot
 
+🧪 Tech Stack
+
+
+<!-- Core Tech -->
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
+
+<!-- Visualization -->
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+
+<!-- AI / LLM -->
+![Google Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?logo=google&logoColor=white)
+![LLM](https://img.shields.io/badge/AI%20Model-6A5ACD?logo=openai&logoColor=white)
+
+<!-- Deployment -->
+![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?logo=streamlit&logoColor=white)
+
+<!-- Tools -->
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+
+<!-- Water Theme Badges -->
+![Water Quality](https://img.shields.io/badge/Water%20Quality-00A6FB?style=flat-square&logo=dropbox&logoColor=white)
+![Clean Water AI](https://img.shields.io/badge/Clean%20Water%20AI-0096C7?style=flat-square&logo=googlecloud&logoColor=white)
+
+---
+
 An AI-powered Streamlit application that predicts water potability, visualizes key water quality parameters, and provides intelligent water-safety explanations using Google Gemini.
 
 🚀 Live App:
@@ -113,37 +145,6 @@ Remote Flask API (if enabled)
 
 ---
 
-🧪 Tech Stack
-
-
-<!-- Core Tech -->
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
-
-<!-- Visualization -->
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
-
-<!-- AI / LLM -->
-![Google Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?logo=google&logoColor=white)
-![LLM](https://img.shields.io/badge/AI%20Model-6A5ACD?logo=openai&logoColor=white)
-
-<!-- Deployment -->
-![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?logo=streamlit&logoColor=white)
-
-<!-- Tools -->
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-
-<!-- Water Theme Badges -->
-![Water Quality](https://img.shields.io/badge/Water%20Quality-00A6FB?style=flat-square&logo=dropbox&logoColor=white)
-![Clean Water AI](https://img.shields.io/badge/Clean%20Water%20AI-0096C7?style=flat-square&logo=googlecloud&logoColor=white)
-
----
 
 🧠 Machine Learning Model
 
