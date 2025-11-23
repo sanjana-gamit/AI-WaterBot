@@ -36,6 +36,7 @@ Predict • Visualize • Analyze • Chat with WaterBot
 
 An AI-powered Streamlit application that predicts water potability, visualizes key water quality parameters, and provides intelligent water-safety explanations using Google Gemini.
 
+
 🚀 Live App:
 
 🔗 https://ai-waterbot-6zjc6ysfjtqhvfwzajnbfp.streamlit.app/
